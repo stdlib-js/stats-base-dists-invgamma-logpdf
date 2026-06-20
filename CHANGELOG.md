@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-06-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8ca8ea2`](https://github.com/stdlib-js/stdlib/commit/8ca8ea2b4c2f7d764b3d5847a3a00908b13d2121) - **test:** fix filename [(#12974)](https://github.com/stdlib-js/stdlib/pull/12974) _(by Philipp Burckhardt)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
 -   [`ff568ee`](https://github.com/stdlib-js/stdlib/commit/ff568ee13c8d96d4ab48342942a0922870cdff06) - **docs:** fix incorrect header include in README C example [(#10937)](https://github.com/stdlib-js/stdlib/pull/10937) _(by Om-A-osc)_
