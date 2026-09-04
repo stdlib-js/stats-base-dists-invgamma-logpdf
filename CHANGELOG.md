@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-01)
+## Unreleased (2026-09-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`564c1f8`](https://github.com/stdlib-js/stdlib/commit/564c1f88c6b32d9346184a826877d6f4b8a9790d) - **test:** migrate `stats/base/dists/invgamma/logpdf` to ULP-based assertions [(#14981)](https://github.com/stdlib-js/stdlib/pull/14981) _(by Athan Reines)_
 -   [`8df3c50`](https://github.com/stdlib-js/stdlib/commit/8df3c505604130c2c0cdf20814d2126c9ef58e69) - **docs:** fix parameter descriptions and update spacing [(#13671)](https://github.com/stdlib-js/stdlib/pull/13671) _(by Philipp Burckhardt)_
 -   [`8ca8ea2`](https://github.com/stdlib-js/stdlib/commit/8ca8ea2b4c2f7d764b3d5847a3a00908b13d2121) - **test:** fix filename [(#12974)](https://github.com/stdlib-js/stdlib/pull/12974) _(by Philipp Burckhardt)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
